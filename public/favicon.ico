@@ -1,0 +1,12 @@
+# This should be a proper ICO file for older browser compatibility
+# To create this file:
+# 1. Save the SVG favicon as a 32x32 PNG image
+# 2. Convert the PNG to ICO format using online tools like:
+#    - favicon.io
+#    - convertio.co
+#    - realfavicongenerator.net
+# 
+# The ICO should contain the same design as favicon.svg:
+# - Yellow-green gradient background
+# - White bus icon with yellow-green windows
+# - Gray wheels 
